@@ -1,4 +1,4 @@
-window.parent.postMessage(
+{window.parent.postMessage(
 ['closeAndContinue', []],
 
 // your Signals Notebook host
@@ -6,3 +6,4 @@ window.parent.postMessage(
 https://seznam.cz
 '
 );
+}
