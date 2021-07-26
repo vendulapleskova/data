@@ -1,0 +1,8 @@
+window.parent.postMessage(
+['closeAndContinue', []],
+
+// your Signals Notebook host
+'
+https://seznam.cz
+'
+);
